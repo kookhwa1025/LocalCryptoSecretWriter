@@ -70,12 +70,4 @@ RSA와 AES 알고리즘을 결합하여 실제 보안 통신(로그인, 데이�
 
 ---
 
-## 📁 제출용 예시
-- GitHub 저장소 URL:  
-  `https://github.com/yourname/LocalCryptoSecretWriter`
-- 또는 ZIP 제출 시 파일명 예시:  
-  `홍길동_LocalCryptoSecretWriter.zip`
-
----
-
 © 2025 LocalCryptoSecretWriter Project | Version 1.1  
